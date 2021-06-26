@@ -1,0 +1,9 @@
+#!/bin/bash
+USRNAME=$(id -un)
+SwitchAudioSource -t input -s "Max in a Box"
+screencapture -V66 -g ~/GitTower/Max-in-a-Box/recs/max-in-a-box.mov
+echo "Video has been captured"
+ffmpeg -i ~/GitTower/Max-in-a-Box/recs/max-in-a-box.mov -ss 00.45 -to 60.45 -filter:v "crop=945:945:502:90" -af "afade=t=in:st=0:d=0.25, afade=t=out:st=59.75:d=0.25" -c:v libx264 -preset slow -crf 17 "/Users/$USRNAME/Library/Mobile Documents/com~apple~CloudDocs/Max in a Box/max-in-a-box_CROP.mp4"
+echo "Video has been cropped"
+mv ~/GitTower/Max-in-a-Box/recs/max-in-a-box.mov "/Users/$USRNAME/Library/Mobile Documents/com~apple~CloudDocs/Max in a Box"
+SwitchAudioSource -t input -s "Scarlett 4i4 USB"
