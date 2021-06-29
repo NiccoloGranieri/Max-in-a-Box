@@ -489,7 +489,6 @@
 						"bng[8]" : [ 0.0 ],
 						"bng[9]" : [ 0.0 ],
 						"hiFdbk" : [ 0.84 ],
-						"kick" : [ 3 ],
 						"pan" : [ 0.6 ],
 						"tempo" : [ 174 ]
 					}
@@ -622,20 +621,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 1177.953442811965942, 467.267441511154175, 150.0, 221.0 ],
-					"text" : "Notes:\n@quailson - gen~\n@jay__tobin - Karplus-strong on delay\n@mk2dollar - harmony or kick variation\n@c74connect - [rate~]\n@_dlms_music_ - Complex FM Drum Synthesis with choice of algorithms and 4 operators\n@gooncocoon - 2-stepsequence step sequencer with each side having variable steps"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-18",
-					"maxclass" : "number",
-					"numinlets" : 1,
-					"numoutlets" : 2,
-					"outlettype" : [ "", "bang" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 876.468441096373908, 394.0, 50.0, 22.0 ],
-					"varname" : "kick"
+					"text" : "Notes:\n@mk2dollar - harmony or kick variation\n@_dlms_music_ - Complex FM Drum Synthesis with choice of algorithms and 4 operators\n@gooncocoon - 2-stepsequence step sequencer with each side having variable steps\n@jay__tobin - Karplus-strong on delay\n@quailson - gen~\n@c74connect - [rate~]"
 				}
 
 			}
@@ -648,18 +634,6 @@
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 864.093053579330444, 472.0, 31.0, 22.0 ],
 					"text" : "Kick"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-5",
-					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
-					"patching_rect" : [ 892.69767689704895, 433.651176929473877, 29.5, 22.0 ],
-					"text" : "/ 2"
 				}
 
 			}
@@ -3360,13 +3334,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-5", 1 ],
-					"source" : [ "obj-18", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-16", 0 ],
 					"source" : [ "obj-2", 0 ]
 				}
@@ -3391,7 +3358,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-5", 0 ],
+					"destination" : [ "obj-14", 0 ],
 					"order" : 1,
 					"source" : [ "obj-23", 0 ]
 				}
@@ -3497,13 +3464,6 @@
 				"patchline" : 				{
 					"destination" : [ "obj-37", 0 ],
 					"source" : [ "obj-44", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-14", 0 ],
-					"source" : [ "obj-5", 0 ]
 				}
 
 			}
