@@ -140,7 +140,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "signal", "", "int" ],
-					"patching_rect" : [ 862.104623317718392, 419.069754518356319, 40.0, 22.0 ],
+					"patching_rect" : [ 862.10461399999997, 406.511615432586666, 40.0, 22.0 ],
 					"text" : "sync~"
 				}
 
@@ -593,7 +593,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[652]",
+							"parameter_longname" : "bng[615]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -617,7 +617,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[660]",
+							"parameter_longname" : "bng[619]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -641,7 +641,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[308]",
+							"parameter_longname" : "bng[624]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -665,7 +665,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[650]",
+							"parameter_longname" : "bng[627]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -689,7 +689,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[653]",
+							"parameter_longname" : "bng[138]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -713,7 +713,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[142]",
+							"parameter_longname" : "bng[633]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -737,7 +737,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[666]",
+							"parameter_longname" : "bng[637]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -761,7 +761,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[310]",
+							"parameter_longname" : "bng[641]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -785,7 +785,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[654]",
+							"parameter_longname" : "bng[603]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -809,7 +809,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[649]",
+							"parameter_longname" : "bng[606]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -833,7 +833,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[651]",
+							"parameter_longname" : "bng[609]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -857,7 +857,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[655]",
+							"parameter_longname" : "bng[612]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -881,7 +881,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[311]",
+							"parameter_longname" : "bng[613]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -905,7 +905,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[140]",
+							"parameter_longname" : "bng[616]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -929,7 +929,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[671]",
+							"parameter_longname" : "bng[620]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -953,7 +953,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[661]",
+							"parameter_longname" : "bng[625]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -977,7 +977,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[667]",
+							"parameter_longname" : "bng[628]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1001,7 +1001,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[672]",
+							"parameter_longname" : "bng[139]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1025,7 +1025,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[645]",
+							"parameter_longname" : "bng[634]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1049,7 +1049,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[647]",
+							"parameter_longname" : "bng[638]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1073,7 +1073,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[648]",
+							"parameter_longname" : "bng[642]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1097,7 +1097,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[145]",
+							"parameter_longname" : "bng[604]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1121,7 +1121,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[292]",
+							"parameter_longname" : "bng[607]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1145,7 +1145,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[313]",
+							"parameter_longname" : "bng[610]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1169,7 +1169,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[662]",
+							"parameter_longname" : "bng[630]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1193,7 +1193,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[668]",
+							"parameter_longname" : "bng[635]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1217,7 +1217,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[306]",
+							"parameter_longname" : "bng[621]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1241,7 +1241,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[309]",
+							"parameter_longname" : "bng[614]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1265,7 +1265,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[314]",
+							"parameter_longname" : "bng[617]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1289,7 +1289,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[663]",
+							"parameter_longname" : "bng[622]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1378,7 +1378,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[307]",
+							"parameter_longname" : "bng[629]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1402,7 +1402,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[656]",
+							"parameter_longname" : "bng[631]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1426,7 +1426,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[658]",
+							"parameter_longname" : "bng[636]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1450,7 +1450,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[664]",
+							"parameter_longname" : "bng[639]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1474,7 +1474,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[669]",
+							"parameter_longname" : "bng[643]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1498,7 +1498,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[141]",
+							"parameter_longname" : "bng[605]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1522,7 +1522,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[143]",
+							"parameter_longname" : "bng[608]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1546,7 +1546,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[144]",
+							"parameter_longname" : "bng[611]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1570,7 +1570,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[291]",
+							"parameter_longname" : "bng[640]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1594,7 +1594,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[657]",
+							"parameter_longname" : "bng[644]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1618,7 +1618,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[659]",
+							"parameter_longname" : "bng[136]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1642,7 +1642,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[665]",
+							"parameter_longname" : "bng[618]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1666,7 +1666,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[670]",
+							"parameter_longname" : "bng[623]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1690,7 +1690,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[673]",
+							"parameter_longname" : "bng[626]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1714,7 +1714,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[646]",
+							"parameter_longname" : "bng[137]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
@@ -1855,7 +1855,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "bng[674]",
+							"parameter_longname" : "bng[632]",
 							"parameter_mmax" : 1,
 							"parameter_shortname" : "bng[15]",
 							"parameter_type" : 2
