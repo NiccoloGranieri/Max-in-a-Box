@@ -57,8 +57,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 895.0, 383.0, 63.0, 22.0 ],
-					"text" : "Sqnc 0.35"
+					"patching_rect" : [ 895.0, 383.0, 56.0, 22.0 ],
+					"text" : "Sqnc 1.4"
 				}
 
 			}
